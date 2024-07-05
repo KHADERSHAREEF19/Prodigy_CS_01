@@ -5,8 +5,6 @@ CEASAR CIPHER
 
 The Caesar cipher is one of the simplest and most widely known encryption techniques. It is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
-FEATURES
-
 Encryption Process:
 
 Choose a shift value, often denoted as 
